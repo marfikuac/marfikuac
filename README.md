@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hola.
+
+Me llamo Marfik y estoy cursando la universidad.
+
+Quisiera algún día desarrollar aplicaciones que tengan alto impacto.
